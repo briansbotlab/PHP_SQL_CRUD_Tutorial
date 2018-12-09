@@ -1,0 +1,52 @@
+PHP_SQL_CRUD_Tutorial
+¢x  controller.php
+¢x  customer.sql
+¢x  main.php
+¢x  README.md
+¢u¢wcreate
+¢x      ctl.php
+¢x      fail.php
+¢x      success.php
+¢x      view.php
+¢x      
+¢u¢wdelete
+¢x      ctl.php
+¢x      ctl2.php
+¢x      fail.php
+¢x      result.php
+¢x      success.php
+¢x      view.php
+¢x      
+¢u¢wimg
+¢x      1.PNG
+¢x      2-1.PNG
+¢x      2-2.PNG
+¢x      2.PNG
+¢x      3-1.PNG
+¢x      3-2.PNG
+¢x      3.PNG
+¢x      4-1.PNG
+¢x      4-2.PNG
+¢x      4-3.PNG
+¢x      4-4.PNG
+¢x      4.PNG
+¢x      5-1.PNG
+¢x      5-2.PNG
+¢x      5-3.PNG
+¢x      5-4.PNG
+¢x      5.PNG
+¢x      
+¢u¢wselect
+¢x      ctl.php
+¢x      fail.php
+¢x      success.php
+¢x      view.php
+¢x      
+¢|¢wupdate
+        ctl.php
+        ctl2.php
+        fail.php
+        result.php
+        success.php
+        view.php
+        
